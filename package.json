@@ -11,8 +11,5 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": {
-		"name": "Tiago",
-		"contact": "tiagoborsalli@gmail.com"
-	},
+	"author": "Tiago",
 }
